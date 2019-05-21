@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.AssemblyInfo.cs
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\bin\Debug\netcoreapp2.1\BikeApp.deps.json
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\bin\Debug\netcoreapp2.1\BikeApp.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\bin\Debug\netcoreapp2.1\BikeApp.pdb
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\bin\Debug\netcoreapp2.1\Common.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\bin\Debug\netcoreapp2.1\Common.pdb
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.csproj.CopyComplete
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeApp\obj\Debug\netcoreapp2.1\BikeApp.pdb

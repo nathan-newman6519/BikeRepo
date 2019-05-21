@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeAppConsole.deps.json
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeAppConsole.runtimeconfig.json
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeAppConsole.runtimeconfig.dev.json
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeAppConsole.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeAppConsole.pdb
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.AssemblyInfo.cs
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.pdb
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeApp.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\Common.dll
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\BikeApp.pdb
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\bin\Debug\netcoreapp2.1\Common.pdb
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Recipe\BikeApp\BikeAppConsole\obj\Debug\netcoreapp2.1\BikeAppConsole.csproj.CopyComplete
